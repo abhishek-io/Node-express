@@ -1,0 +1,6 @@
+const names = module.require('./names')
+const SayHi = module.require('./utils')
+const data = module.require('./alternative-flavors')
+require('./mind-grenade')
+console.log(data)
+SayHi(names.mayank)

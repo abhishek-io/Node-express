@@ -1,0 +1,2 @@
+This is result file created by writeFileSync method of 'fs' module 
+ concatinating prev 2 filestext file 1 inside New folder' 'text file 2 inside New folder
